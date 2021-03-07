@@ -4,6 +4,7 @@ Liste des logiciels à installer sur le PC Gaming
 ## Utilitaires
 * 1Password
 * Lightshot
+* Notepad++
 
 ## Jeux vidéos
 * Steam
